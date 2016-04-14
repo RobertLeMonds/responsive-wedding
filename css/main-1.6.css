@@ -304,7 +304,7 @@ section {
 
 section h1 {
 
-    font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "Indie Flower", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 2.6em;
 
 }
@@ -425,7 +425,7 @@ section h2 {
         padding: 40px 40px 70px 40px;
     }
     section h1 {
-        font-size: 3.1em;
+        font-size: 2.1em;
     }
     section h2 {
         font-size: 1.7em;
@@ -462,15 +462,10 @@ section h2 {
    ==================== */
 
     section h1 {
-        font-size: 4.9em;
+        font-size: 2.9em;
     }
     section h2 {
         font-size: 2.0em;
-    }
-
-    .responsive-image.proposal {
-        width: 640px;
-        height: 480px;
     }
 
 /* ============
@@ -516,7 +511,7 @@ section h2 {
         padding: 0 20px;
     }
     section h1 {
-        font-size: 5.9em;
+        font-size: 3.9em;
     }
 
     .column.full {
@@ -532,7 +527,7 @@ section h2 {
     .col-txt {
         text-align: center;
     }
-    
+
     .column p {
         font-size: 1.4em;
         line-height: 145%;
@@ -813,10 +808,15 @@ section h2 {
 }
 
 .responsive-image.proposal {
+    width: 480px;
+    height: 480px;   
     text-align: center;
     margin: 60px auto 60px auto;
 }
 .responsive-image.proposal img {
+    max-width: 100%;
+    max-height: 100%;
+    vertical-align: middle;
     border: 10px solid #090909;
 
     -ms-border-radius: 8px;
