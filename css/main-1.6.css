@@ -162,7 +162,7 @@ body {
 
 #introtext .head-nichole {
     font-family: "Indie Flower", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 5em;
+    font-size: 2em;
     line-height: 100%;
 }
 #introtext .amp {
@@ -279,7 +279,7 @@ body {
 }
 
 section {
-    text-align: left;
+    text-align: center;
     padding: 25px;
     background-color: black;
     height: 100%;
@@ -362,7 +362,7 @@ section h2 {
     }
 
     #introtext .head-nichole {
-        font-size: 7em;
+        font-size: 3em;
     }
     #introtext .amp {
         position: relative;
@@ -478,7 +478,7 @@ section h2 {
    ============ */
 
     #introtext .head-nichole {
-        font-size: 9em;
+        font-size: 4em;
    }
     #introtext .amp {
         top: 0;
@@ -528,6 +528,11 @@ section h2 {
         float: left;
         width: 50%;
     }
+
+    .col-txt {
+        text-align: center;
+    }
+    
     .column p {
         font-size: 1.4em;
         line-height: 145%;
