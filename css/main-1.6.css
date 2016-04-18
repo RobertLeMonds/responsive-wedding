@@ -775,7 +775,8 @@ section h2 {
    FONTS
    ========================================================================== */
 .indiefont {
-    font-family: "Indie Flower"
+    font-family: "Indie Flower";
+    font-size: 3em;
 }
 
 

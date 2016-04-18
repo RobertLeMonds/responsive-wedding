@@ -1,5 +1,9 @@
-responsive-wedding
+# Robert & Nichole's Responsive Wedding Site
 ------------------
+
+This website was originally created by Bradley Greenwood. I made modifications to meed our needs as a couple and what we thought best. I made the header slightly more responsive than it was before. I uploaded this onto my hosting account via bluehost. The website address is: buttercupandsmoresleap.us
+----------------
+
 
 An HTML5 responsive design using jquery waypoints & scroll-to for a pleasant single-page navigation. This template makes use of media queries and scales well for all mobile form-factors.
 
