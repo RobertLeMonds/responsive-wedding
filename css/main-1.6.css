@@ -18,6 +18,11 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    background-image: url("../img/bg-pic2.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100% 100%, auto;
 }
 
 ::-moz-selection {
@@ -344,6 +349,7 @@ section h2 {
         .txt-size {
             display: inline-block;
         }
+
 }
 
 @media screen and (min-width: 360px) {
