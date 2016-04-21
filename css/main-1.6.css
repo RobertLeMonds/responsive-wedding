@@ -340,6 +340,15 @@ section h2 {
 /* ==========================================================================
    Media Queries
    ========================================================================== */
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+    html {
+            background:url("../img/bg-pic-mobile2X.jpg") no-repeat;
+            background-size: 414px 736px;
+            background-attachment: fixed;
+       }
+   }
+
+
 @media screen and (min-width: 320px) {
         #introtext {
         width: 290px;
