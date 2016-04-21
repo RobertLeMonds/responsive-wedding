@@ -344,7 +344,10 @@ section h2 {
     html {
             background:url("../img/bg-pic-mobile2X.jpg") no-repeat;
             background-size: 414px 736px;
-            background-attachment: fixed;
+            -webkit-background-size: 414px 736px;
+            -moz-background-size: 414px 736px;
+            -o-background-size: 414px 736px;
+            background-attachment: scroll;
        }
    }
 
